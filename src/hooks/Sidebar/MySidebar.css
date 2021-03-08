@@ -1,0 +1,11 @@
+.hamburger{
+    cursor:pointer;
+    padding: 10% 0 0 0;
+}
+.heading{
+    margin: 2% 0 0 0;
+    text-align: center;
+    color: gray;
+    font-weight: bolder;
+    font-size: 150%;
+}
