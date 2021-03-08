@@ -1,0 +1,6 @@
+.navIcon{
+    margin:5%
+}
+.navIcon:hover{
+    cursor:pointer;
+}
